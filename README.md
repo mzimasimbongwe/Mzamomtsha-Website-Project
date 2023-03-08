@@ -1,4 +1,4 @@
-# Mzamomtsha-Website-Project
+# Mzamomtsha-Website-Project (A brief description of the project)
 We the researcher formulated the scope of this project to identify the boundaries of this project. The website, which is going to be the output of the project, is simply going to transition Mzamomtsha Primary School’s method of promoting, informing and handling data to a computerized one such as, allowing the students, parents and visitors to view some information of the institution, recording all the necessary information with regard from the students, has the capability to keep in track the records of the student, allowing parents and students to access anytime they want, and providing features that make the school part of a member’s daily functions.
 
 ## A small code example
