@@ -212,7 +212,7 @@ This is a home page code for the website we have created
 
 
 ## A link to your code & issue tracker
-People like to browse the code sometimes. They might be interested in filing bugs against the code for issues they’ve found. Make it really easy for people who want to contribute back to the project in any way possible. 
+https://comfy-tanuki-3f2314.netlify.app
 
 ## Frequently Asked Questions (FAQ)
 We have provided a frequently asked questions list to the websites to help users to relate to their question answers 
