@@ -237,4 +237,4 @@ const API_KEY = 'ENTER YOUR API';
 
 
 ## Your project’s license
-Distributed under the Squad License. See LICENSE.txt for more information.
+Distributed under the © 2023 GitHub, and Visual Studio Code https://code.visualstudio.com/
