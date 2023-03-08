@@ -237,4 +237,4 @@ const API_KEY = 'ENTER YOUR API';
 
 
 ## Your project’s license
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the Squad License. See LICENSE.txt for more information.
